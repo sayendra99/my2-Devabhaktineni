@@ -23,6 +23,13 @@ Although it is quite difficult to estimate exact participation numbers for sport
 
 <br>
 
+-----
+> Success can come to you by courageous devotion to the task lying in front of you -*CV Raman*
+
+> If there has been any success in my life, that was built on the unshakable foundation of failure… -*Jagadish Chandra Bose*
+#  favourite Scientist
+
+
 ----
 # Code Fencing
  how to retreive custom field data  from the page -Wordpress or  Dump all custom fields.
