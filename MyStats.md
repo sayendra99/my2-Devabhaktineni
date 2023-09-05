@@ -40,11 +40,6 @@ if ($gift_text_lines > 1) { ?>
 <?php 
 } 
 ?>
- 
- 
- 
- 
  ```
-
  [question in wordpress](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
 
