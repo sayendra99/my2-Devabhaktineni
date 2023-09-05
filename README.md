@@ -22,4 +22,6 @@ By virtue of its location and stupendous height, the Great Himalaya Range obstru
  * Sel-roti
  * Methy-kaju 
  * Yomari 
+ [face_id](MyStats.md)
+
 
