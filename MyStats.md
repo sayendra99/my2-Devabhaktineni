@@ -28,9 +28,7 @@ Although it is quite difficult to estimate exact participation numbers for sport
  how to retreive custom field data  from the page -Wordpress or  Dump all custom fields.
 
  [Solution in Stackoverflow](https://stackoverflow.com/questions/66293239/wordpress-how-to-retrieve-custom-field-data-from-the-page)
-
- ```
- <?php 
+``` <?php 
 $gift_text_lines = get_sub_field( 'gift_text_lines' ); 
 if ($gift_text_lines > 1) { ?>
     .fluentform .ff-el-image-holder {
@@ -40,6 +38,6 @@ if ($gift_text_lines > 1) { ?>
 <?php 
 } 
 ?>
- ```
+```
  [question in wordpress](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
 
