@@ -14,3 +14,11 @@ VACATION ACTIVITIES WITH JOY
  2. Hiking and trekking the mountains
  3. Spritual retreating the soul with himalayas environment
 
+ Dishes of food in himalayas
+ 
+ * Dal Bhat
+ * Panner butter Masala
+ * Sel-roti
+ * Methy-kaju 
+ * Yomari 
+
