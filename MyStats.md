@@ -17,8 +17,5 @@ Although it is quite difficult to estimate exact participation numbers for sport
 |Name of Sport|Reason to Play|Average hours to play in week|
 | --- | --- |--- |
 |Golf|Boost creative thinking|10-15hrs|
-
 |Football|Boost Stamina and Speed|40 hrs|
-
-
 |badminton|Strengthen the heart muscle|8 hrs|
